@@ -1,8 +1,8 @@
-This is a modified version of JavaScript Mastery's blog tutorial 'Build and Deploy THE BEST Modern Blog App with React | GraphQL, NextJS, Tailwind CSS'. /n
+This is a modified version of JavaScript Mastery's blog tutorial 'Build and Deploy THE BEST Modern Blog App with React | GraphQL, NextJS, Tailwind CSS'. <br />
 Found here: https://www.youtube.com/watch?v=HYv55DhgTuA
-/n
+<br />
 This uses @graphcms/rich-text-react-renderer to parse blog content.
-/n
+<br />
 If you have trouble with zero line breaks in Hygraph rich-text-editor simply use shift+enter (instead of just enter).
 
 ---
