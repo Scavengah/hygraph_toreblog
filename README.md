@@ -1,3 +1,12 @@
+This is a modified version of JavaScript Mastery's blog tutorial 'Build and Deploy THE BEST Modern Blog App with React | GraphQL, NextJS, Tailwind CSS'. <b>
+Found here: https://www.youtube.com/watch?v=HYv55DhgTuA
+<b>
+This uses @graphcms/rich-text-react-renderer to parse blog content.
+<b>
+If you have trouble with zero line breaks in Hygraph rich-text-editor simply use shift+enter (instead of just enter).
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
